@@ -1,2 +1,2 @@
-# Python-Basics
+# Python-Essentials
 Python essentials
